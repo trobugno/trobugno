@@ -1,9 +1,8 @@
 ### Hi there, I'm Andrea - aka Trobugno 🖖
 
 ## I'm a Developer and Nerd!
-- 🔭 I'm currently manage my Esports organization.
-- 🌱 I have always something to learn
-- 🥅 2021 Goals: Create my first repository
+- 🔭 I'm currently work in a Financial Technology Company.
+- 🌱 I have always something to learn.
 - ⚡ Fun fact: I love animals, videogames, anime, etc.
 
 ### Languages and Tools:
